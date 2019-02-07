@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.log
+*.pot
+local_settings.py.env
